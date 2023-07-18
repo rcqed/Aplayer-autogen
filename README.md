@@ -14,9 +14,9 @@
 
 2. 在你放音频的文件中，放入cover.jpg和info.md
 
-> cover.jpg为该文件夹里的音频封面，info.md为这个文件夹里的所有音频的文件名
+> cover.jpg为该文件夹里的音频封面，info.md为这个文件夹里的所有mp3的文件名
 > 
-> info.md文件可以使用genname.bat，放在当前目录或母目录中，双击即可自动生成
+> info.md文件可以使用genname.bat（它会把当前目录以及子目录中包含cover.jpg的文件夹中所有mp3文件的文件名写入info.md中）
 
 3. 访问链接 http://127.0.0.1/index.html?path=./audio
 
