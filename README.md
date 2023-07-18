@@ -6,9 +6,9 @@
 ```
 <body>
   <div id="aplayer"></div>
-  <script src="./_js/APlayer.min.js"></script>
-  <link rel="stylesheet" href="./_css/APlayer.min.css">
-  <script src="./_js/autogen.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.0/dist/APlayer.min.css">
+  <script src="./autogen.js"></script>
 </body>
 ```
 
