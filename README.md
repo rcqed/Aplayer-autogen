@@ -21,3 +21,5 @@
 3. 访问链接即可生成 https://rcqed.github.io/Aplayer-autogen/index.html?path=./audio
 
 > path=./audio为相对与index.html的音频文件夹位置（也可以用绝对地址）
+
+## 感谢[Aplayer](https://github.com/DIYgod/APlayer)!!!
