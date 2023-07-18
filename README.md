@@ -18,6 +18,6 @@
 > 
 > info.md文件可以使用genname.bat（它会把当前目录以及子目录中包含cover.jpg的文件夹中所有mp3文件的文件名写入info.md中）
 
-3. 访问链接即可生成 http://127.0.0.1/index.html?path=./audio
+3. 访问链接即可生成 https://rcqed.github.io/Aplayer-autogen/index.html?path=./audio
 
 > path=./audio为相对与index.html的音频文件夹位置（也可以用绝对地址）
